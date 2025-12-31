@@ -1,1 +1,1 @@
-from . import bulk-clear-formatting
+from . import bulk_clear_formatting
